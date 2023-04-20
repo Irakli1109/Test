@@ -1,2 +1,3 @@
 # ***Test***
-123
+![Tux, the Linux mascot](/assets/images/tux.png)
+
